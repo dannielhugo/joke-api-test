@@ -1,5 +1,7 @@
 # joke-api
 
+![img](public/joke.png)
+
 ## Project setup
 ```
 npm install
