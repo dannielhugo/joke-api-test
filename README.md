@@ -1,6 +1,6 @@
 # joke-api
 
-![img](public/joke.png)
+![img](public/joke1.png)
 
 ## Project setup
 ```
